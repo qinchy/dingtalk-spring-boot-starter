@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.qinchy.im.dingtalk.autoconfigure.DingtalkClientAutoConfigure,\
+com.qinchy.im.dingtalk.autoconfigure.DingtalkServiceAutoConfigure
