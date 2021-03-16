@@ -36,8 +36,6 @@ MALL: ${access_token_3}
 
 其中：
 
-nascent-dingtalk-service-sdk：是基于钉钉的sdk做了包路径上的封装。
-
 dingtalk-spring-boot-starter：实现如下功能：
 
 自动解析application.yml中配置的dingtalk.webhook.address，并自动配置DingtalkClient。
